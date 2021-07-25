@@ -6,11 +6,11 @@
               temparature is set into the app.When the collected temperature crosses this limit,the alarm starts ringing.An option is given 
               for the users that they can call fire-station directly from this app.
 
-**Features:** -Account creation
-          -Multiple Device Support for Each Account
-          -Real Time Data Upadate
-          -Automatic Alarm with Device Information
-          -Calling Option to Fire Station
+**Features:** - Account creation
+          - Multiple Device Support for Each Account
+          - Real Time Data Upadate
+          - Automatic Alarm with Device Information
+          - Calling Option to Fire Station
           
 **Platform/Language:** Android Studio (for app building)
                    Arduino (for IoT platform programming)
