@@ -7,9 +7,13 @@
               for the users that they can call fire-station directly from this app.
 
 **Features:** - Account creation
+
           - Multiple Device Support for Each Account
+          
           - Real Time Data Upadate
+          
           - Automatic Alarm with Device Information
+          
           - Calling Option to Fire Station
           
 **Platform/Language:** Android Studio (for app building)
