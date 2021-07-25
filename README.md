@@ -26,20 +26,20 @@
           
           - Google Firebase (for real time remote data handling)
           
-**Data Flow:** Sensor -> IoT device -> [Internet] -> Firebase Real Time DB -> [Internet] -> App
-
+**Data Flow:** _Sensor -> IoT device -> [Internet] -> Firebase Real Time DB -> [Internet] -> App
+_
 **Needed Hardware:** 
 
-                 LM35 (Temperature Sensor)
-                 NodeMCU (IoT Platform)
-                 Wires
+                 - LM35 (Temperature Sensor)
+                 - NodeMCU (IoT Platform)
+                 - Wires
 
 **Limitatios:** 
 
-            One IoT device is needed here to transmit data of one sensor.It'll be very costly for the users.
-            Hardware installation is difficult.Experts are needed here to install all those staffs.
-            Fire Station calling option is quite manual.The dialing number is given into the code.This is not the optimized way.
-            Users cannot update their own and device info from the app.
+            - One IoT device is needed here to transmit data of one sensor.It'll be very costly for the users.
+            - Hardware installation is difficult.Experts are needed here to install all those staffs.
+            - Fire Station calling option is quite manual.The dialing number is given into the code.This is not the optimized way.
+            - Users cannot update their own and device info from the app.
             
 **Conclusion:** Although the app is not very user friendly,it is fully functional.Many upgradation is possible in this app.
             Project related all files are uploaded here.Thanks for reading.Happy Coding! :)
