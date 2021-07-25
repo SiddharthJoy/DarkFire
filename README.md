@@ -1,5 +1,4 @@
-# AndroidProject 
-**App Name: Dark Fire**
+# **Dark Fire**
 
 **What it does:** Basically it's a fire alarming app.This app recieves temparature data(in centigrade) from remote sensors.
               Sensor data are sent to the app through internet by an IoT device.The data keep updating itself within ~10 seconds.A fixed
