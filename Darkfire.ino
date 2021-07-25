@@ -1,3 +1,9 @@
+
+// This file have to be burnt in nodemcu to program the device
+// It makes the device collect data from the sensor and send it to the firebase database
+// The wiring between nodemcu and temerature sensor is widely available on internet
+
+
 #include <ESP8266WiFi.h>
 #include <SoftwareSerial.h>
 #include <FirebaseArduino.h>
