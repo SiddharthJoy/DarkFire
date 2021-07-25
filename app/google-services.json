@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "798128275693",
+    "firebase_url": "https://project-ce84f-default-rtdb.firebaseio.com",
+    "project_id": "project-ce84f",
+    "storage_bucket": "project-ce84f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:798128275693:android:cbe4d17d160efb91870ce4",
+        "android_client_info": {
+          "package_name": "com.example.darkfire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "798128275693-bv594btm6n4ufeebcv37j29bqe85646t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiamR1LGl7bzgSuGKzSjtwFSMWNf3Ak1M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "798128275693-bv594btm6n4ufeebcv37j29bqe85646t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
