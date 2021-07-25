@@ -25,8 +25,8 @@
           
           - Google Firebase (for real time remote data handling)
           
-**Data Flow:** _Sensor -> IoT device -> [Internet] -> Firebase Real Time DB -> [Internet] -> App
-_
+**Data Flow:** _Sensor -> IoT device -> [Internet] -> Firebase Real Time DB -> [Internet] -> App_
+
 **Needed Hardware:** 
 
                  - LM35 (Temperature Sensor)
