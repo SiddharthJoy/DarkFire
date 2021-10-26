@@ -1,9 +1,9 @@
 # **Dark Fire**
 
-**What it does:** Basically it's a fire alarming app.This app recieves temparature data(in centigrade) from remote sensors.
+**What it does:** Basically it's a fire alarming app.This app receives temperature data(in centigrade) from remote sensors.
               Sensor data are sent to the app through internet by an IoT device.The data keep updating itself within ~10 seconds.A fixed
-              temparature is set into the app.When the collected temperature crosses this limit,the alarm starts ringing.An option is given 
-              for the users that they can call fire-station directly from this app.
+              temperature is set into the app. When the collected temperature crosses this limit,the alarm starts ringing.An option is given 
+              to the users that, they can call fire-station directly from this app.
 
 **Features:** 
           
@@ -21,7 +21,7 @@
 
           - Android Studio (for app building)
           
-          - Arduino (for IoT platform programming)
+          - Arduino (to program the IoT platform)
           
           - Google Firebase (for real time remote data handling)
           
