@@ -40,7 +40,7 @@
             - Fire Station calling option is quite manual.The dialing number is given into the code.This is not the optimized way.
             - Users cannot update their own and device info from the app.
             
-**Conclusion:** Although the app is not very user friendly,it is fully functional.Many upgradation is possible in this app.
+**Conclusion:** Although the app is not very user friendly,it is fully functional. Many upgradation is possible in this app.
             Project related all files(**including arduino code[darkfire.ino]**) are uploaded here.Thanks for reading.Happy Coding! :)
           
                      
