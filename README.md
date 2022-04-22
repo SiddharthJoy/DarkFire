@@ -27,7 +27,7 @@
           
 **Data Flow:** _Sensor -> IoT device -> [Internet] -> Firebase Real Time DB -> [Internet] -> App_
 
-**Needed Hardware:** 
+**Hardwares Used:** 
 
            - LM35 (Temperature Sensor)
            - NodeMCU (IoT Platform)
